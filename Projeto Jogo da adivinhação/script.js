@@ -55,4 +55,4 @@ function check() {
 document.querySelector(".check").addEventListener("click", check);
 document.getElementById("start").addEventListener("click", initializeGame);
 
-// estilizar mais o jogo e fazer o comentario acima
+
